@@ -1,10 +1,10 @@
-# Hi, I'm Nihar Mengade 👋
+# Hi, I'm Nihar Vijay Mengade 👋
 
 ## About Me
-I am a passionate **2nd-year BCA student** from Pune, India, currently diving deep into **Full Stack Development**. I enjoy solving problems and building efficient web applications using modern technologies. Constantly learning and expanding my skills to become a proficient developer.
+I am a passionate **BCA student** from Pune, India, currently diving deep into **Full Stack Development**. I enjoy solving problems and building efficient web applications using modern technologies. Constantly learning and expanding my skills to become a proficient developer.
 
 ## Skills
-- Programming Languages: C, C++, Java, JavaScript  
+- Programming Languages:C++,JavaScript  
 - Web Technologies: HTML, CSS  
 - Currently Learning: Full Stack Development (React, Node.js, MongoDB, Express.js)
 
@@ -20,4 +20,4 @@ I am a passionate **2nd-year BCA student** from Pune, India, currently diving de
 
 ---
 
-*“Strive not to be a success, but rather to be of value.”* – Albert Einstein
+“You do not succeed without obsession.” -- Rakesh Jhunjhunwala

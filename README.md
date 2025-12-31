@@ -12,6 +12,16 @@ I am a passionate BCA student from Pune, India, currently diving deep into Full 
 ![](https://nirzak-streak-stats.vercel.app/?user=niharmengade&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niharmengade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🗂️ Projects
+
+[![Color Switcher](https://img.shields.io/badge/Color_Switcher-009688?style=for-the-badge)](https://niharmengade.github.io/js-learning-journey/projectjs1/js.html)  
+[![BMI Calculator](https://img.shields.io/badge/BMI_Calculator-FF4081?style=for-the-badge)](https://niharmengade.github.io/js-learning-journey/projectjs2/pro2.html)  
+[![Live Clock](https://img.shields.io/badge/Live_Clock-795548?style=for-the-badge)](https://niharmengade.github.io/js-learning-journey/projectjs3/pro3.html)  
+[![Guess the Number](https://img.shields.io/badge/Guess_the_Number-3F51B5?style=for-the-badge)](https://niharmengade.github.io/js-learning-journey/projectjs4/pro4.html)  
+[![Color Changer](https://img.shields.io/badge/Color_Changer-FF6F00?style=for-the-badge)](https://niharmengade.github.io/js-learning-journey/projectjs5/proasyn.html)  
+[![Personal Card](https://img.shields.io/badge/Personal_Card-673AB7?style=for-the-badge)](https://react-learning-journey-murex.vercel.app/)<br>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=niharmengade&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

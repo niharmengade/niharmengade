@@ -15,8 +15,7 @@ I am a passionate BCA student from Pune, India, currently diving deep into Full 
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=niharmengade&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=niharmengade&icon=9&color=10)](https://visitcount.itsvg.in)

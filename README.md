@@ -14,12 +14,7 @@ I am a passionate BCA student from Pune, India, currently diving deep into Full 
 
 ## 🗂️ Projects
 
-[![Color Switcher](https://img.shields.io/badge/Color%20Switcher-009688?style=for-the-badge&logo=palette&logoColor=white)](https://niharmengade.github.io/js-learning-journey/projectjs1/js.html)  
-[![BMI Calculator](https://img.shields.io/badge/BMI%20Calculator-FF4081?style=for-the-badge&logo=calculator&logoColor=white)](https://niharmengade.github.io/js-learning-journey/projectjs2/pro2.html)  
-[![Live Clock](https://img.shields.io/badge/Live%20Clock-795548?style=for-the-badge&logo=clock&logoColor=white)](https://niharmengade.github.io/js-learning-journey/projectjs3/pro3.html)  
-[![Guess the Number](https://img.shields.io/badge/Guess%20the%20Number-3F51B5?style=for-the-badge&logo=target&logoColor=white)](https://niharmengade.github.io/js-learning-journey/projectjs4/pro4.html)  
-[![Color Changer](https://img.shields.io/badge/Color%20Changer-FF6F00?style=for-the-badge&logo=brush&logoColor=white)](https://niharmengade.github.io/js-learning-journey/projectjs5/proasyn.html)  
-[![Personal Card](https://img.shields.io/badge/Personal%20Card-673AB7?style=for-the-badge&logo=id-badge&logoColor=white)](https://react-learning-journey-murex.vercel.app/)
+[![Color Switcher](https://img.shields.io/badge/Color%20Switcher-009688?style=for-the-badge&logo=palette&logoColor=white)](https://niharmengade.github.io/js-learning-journey/projectjs1/js.html)  [![BMI Calculator](https://img.shields.io/badge/BMI%20Calculator-FF4081?style=for-the-badge&logo=calculator&logoColor=white)](https://niharmengade.github.io/js-learning-journey/projectjs2/pro2.html)  [![Live Clock](https://img.shields.io/badge/Live%20Clock-795548?style=for-the-badge&logo=clock&logoColor=white)](https://niharmengade.github.io/js-learning-journey/projectjs3/pro3.html)  [![Guess the Number](https://img.shields.io/badge/Guess%20the%20Number-3F51B5?style=for-the-badge&logo=target&logoColor=white)](https://niharmengade.github.io/js-learning-journey/projectjs4/pro4.html)  [![Color Changer](https://img.shields.io/badge/Color%20Changer-FF6F00?style=for-the-badge&logo=brush&logoColor=white)](https://niharmengade.github.io/js-learning-journey/projectjs5/proasyn.html)  [![Personal Card](https://img.shields.io/badge/Personal%20Card-673AB7?style=for-the-badge&logo=id-badge&logoColor=white)](https://react-learning-journey-murex.vercel.app/)
 
 
 

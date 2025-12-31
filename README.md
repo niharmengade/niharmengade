@@ -11,12 +11,8 @@ I am a passionate BCA student from Pune, India, currently diving deep into Full 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niharmengade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihar-mengade/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/NiharMengade)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/niharvmengade/)  
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mengadenihar)  
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/mengadenihar)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharvmengade@gmail.com)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihar-mengade/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/NiharMengade) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/niharvmengade/)  
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mengadenihar) [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/mengadenihar) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharvmengade@gmail.com)<br>
 
 
 ## 🏆 GitHub Trophies

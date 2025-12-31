@@ -1,24 +1,18 @@
-# 💫 About Me:
-I am a passionate BCA student from Pune, India, currently diving deep into Full Stack Development. I enjoy solving problems and building efficient web applications using modern technologies. Constantly learning and expanding my skills to become a proficient developer.<br><br>Skills<br>Programming Languages: C++, JavaScript<br>Web Technologies: HTML, CSS, Tailwind CSS<br>Frameworks & Libraries: React<br>Backend (Learning): Node.js, Express.js<br>Database: MySQL, (Learning) MongoDB<br>Tools: Git, GitHub, VS Code<br><br>What I'm Doing<br>Enhancing my knowledge of front-end and back-end development<br>Building projects to apply what I learn<br>Exploring new frameworks and tools in the JavaScript ecosystem<br><br>Connect with Me<br>📍 Based in Pune, India<br>🚀 Always open to collaborating on interesting projects<br>📫 Feel free to reach out!<br>
+# Hi, I'm Nihar Vijay Mengade 👋
 
+## About Me
+I am a passionate **BCA student** from Pune, India, currently diving deep into **Full Stack Development**. I enjoy solving problems and building efficient web applications using modern technologies. Constantly learning and expanding my skills to become a proficient developer.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
+## 🚀 Tech Stack
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=niharmengade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=niharmengade&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niharmengade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streaks.vercel.app/?user=niharvmengade&theme=dark&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niharvmengade&theme=dark&layout=compact)
 
 ## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/channels/@me)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/NiharMengade)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/niharvmengade)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/NIHARMENGADE)  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/user/mengadenihar)  [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/mengadenihar)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharvmengade@gmail.com)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=niharmengade&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihar-mengade/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/NiharMengade) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/niharvmengade/) [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.&logo=discord&logoColor=white)](your-discord-invite-or-username) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/user/mengadenihar) [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/mengadenihar) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharvmengade@gmail.com)
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

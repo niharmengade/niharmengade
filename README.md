@@ -2,7 +2,7 @@
 I am a passionate BCA student from Pune, India, currently diving deep into Full Stack Development. I enjoy solving problems and building efficient web applications using modern technologies. Constantly learning and expanding my skills to become a proficient developer.<br><br>
 
 **Skills**  
-Programming Languages: c,C++,Java,JavaScript  
+Programming Languages: C, C++, Java, JavaScript  
 Data Structures & Algorithms: DSA using C++  
 Web Technologies: HTML, CSS, Tailwind CSS  
 Frameworks & Libraries: React  
